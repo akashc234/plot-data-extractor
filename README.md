@@ -38,4 +38,4 @@ scientific literature and digitize them into probabilistic raw data points.	View
 
 ### ❤️ Authors
 
-* Sai Adarsh S., Rajasekar M., Akash C.
+* Akash C, Sai Adarsh S, Rajasekar M.
